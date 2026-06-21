@@ -39,9 +39,9 @@ Tahapan yang dilakukan dalam proyek ini meliputi:
 ├── Zahwa_Alya_Yamin_245060307111028_Laporan.pdf
 ├── Hasil Evaluasi Klasifikasi Alat Tulis.pdf
 ├── Gambar Grafik Hasil.pdf
-├── PPT Klasifikasi Gambar Alat Tulis CNN.pptx
+├── PPT Klasifikasi Gambar Alat Tulis CNN.pdf
 ├── Dataset Gambar Alat Tulis/
-├── Video Penjelasan Proyek.mp4
+├── Link Video Penjelasan
 
 ```
 
