@@ -1,21 +1,26 @@
 # Klasifikasi-Gambar-Alat-Tulis-Menggunakan-CNN
+
 Implementasi Convolutional Neural Network (CNN) untuk klasifikasi gambar alat tulis menggunakan Google Colab dengan empat objek: Buku, Penghapus, Pensil, dan Pulpen.
 
 ## Deskripsi Proyek
+
 Proyek ini merupakan implementasi Artificial Intelligence (AI) menggunakan metode Convolutional Neural Network (CNN) untuk melakukan klasifikasi gambar alat tulis. Model dikembangkan menggunakan Python pada platform Google Colab dengan memanfaatkan library TensorFlow dan Keras.
 
 Tujuan dari proyek ini adalah membangun model yang mampu mengenali dan mengklasifikasikan berbagai jenis alat tulis berdasarkan citra digital yang diberikan.
 
 ## Dataset
+
 Dataset yang digunakan berupa kumpulan gambar alat tulis yang telah dikelompokkan ke dalam beberapa kelas. Dataset digunakan sebagai data training dan testing untuk melatih model CNN.
 
 ## Tools dan Library
+
 - Python
 - Google Colab
 - TensorFlow
 - Keras
 
 ## Metode
+
 Tahapan yang dilakukan dalam proyek ini meliputi:
 
 1. Pengumpulan dataset gambar alat tulis.
@@ -27,7 +32,8 @@ Tahapan yang dilakukan dalam proyek ini meliputi:
 7. Visualisasi hasil menggunakan grafik akurasi dan loss.
 
 ## Struktur Repository
-```
+
+```text
 ├── Zahwa_Alya_245060307111028_Coding_CNN.ipynb
 ├── Zahwa_Alya_Yamin_245060307111028_Laporan.pdf
 ├── Hasil Evaluasi Klasifikasi Alat Tulis.pdf
@@ -37,7 +43,9 @@ Tahapan yang dilakukan dalam proyek ini meliputi:
 ├── Video Penjelasan Proyek.mp4
 └── README.md
 ```
+
 ## Hasil
+
 Model CNN berhasil dilatih untuk melakukan klasifikasi gambar alat tulis. Hasil evaluasi model ditampilkan dalam bentuk:
 
 - Nilai akurasi model
@@ -45,7 +53,7 @@ Model CNN berhasil dilatih untuk melakukan klasifikasi gambar alat tulis. Hasil 
 - Grafik Loss
 - Confusion Matrix
 
-**## Cara Menjalankan Program**
+## Cara Menjalankan Program
 
 1. Buka file notebook `.ipynb` menggunakan Google Colab.
 2. Upload dataset ke lingkungan kerja Colab.
@@ -53,14 +61,15 @@ Model CNN berhasil dilatih untuk melakukan klasifikasi gambar alat tulis. Hasil 
 4. Tunggu proses training selesai.
 5. Lihat hasil evaluasi dan grafik performa model.
 
-
-**## Penulis**
+## Penulis
 
 **Nama:** Zahwa Alya Yamin  
 **NIM:** 245060307111028
 
-**## Mata Kuliah**
+## Mata Kuliah
+
 Kecerdasan Buatan
 
-**## Lisensi**
-Proyek ini dibuat sebagai pemenuhan tugas Ujian Akhir Semester (UAS) mata Kecerdasan Buatan.
+## Lisensi
+
+Proyek ini dibuat sebagai pemenuhan tugas Ujian Akhir Semester (UAS) mata kuliah Kecerdasan Buatan.
