@@ -26,10 +26,7 @@ Tahapan yang dilakukan dalam proyek ini meliputi:
 6. Evaluasi performa model.
 7. Visualisasi hasil menggunakan grafik akurasi dan loss.
 
-## Struktur Proyek
-
-```
-**## Struktur Repository**
+## Struktur Repository
 ```
 ├── Zahwa_Alya_245060307111028_Coding_CNN.ipynb
 ├── Zahwa_Alya_Yamin_245060307111028_Laporan.pdf
@@ -40,8 +37,7 @@ Tahapan yang dilakukan dalam proyek ini meliputi:
 ├── Video Penjelasan Proyek.mp4
 └── README.md
 ```
-
-**## Hasil**
+## Hasil
 Model CNN berhasil dilatih untuk melakukan klasifikasi gambar alat tulis. Hasil evaluasi model ditampilkan dalam bentuk:
 
 - Nilai akurasi model
