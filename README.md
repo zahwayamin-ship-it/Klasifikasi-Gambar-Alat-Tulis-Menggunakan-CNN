@@ -9,7 +9,7 @@ Tujuan dari proyek ini adalah membangun model yang mampu mengenali dan mengklasi
 ## Dataset
 Dataset yang digunakan berupa kumpulan gambar alat tulis yang telah dikelompokkan ke dalam beberapa kelas (Buku, Penghapus, Pensil, dan Pulpen). Dataset digunakan sebagai data training dan testing untuk melatih model CNN.
 
-🔗 **Link Dataset:**  
+**Link Dataset:**  
 https://drive.google.com/drive/folders/1LYsvEJ27AI80nXZzgPTDS1ZZrhvULB6Q?usp=sharing
 
 ## Tools dan Library
@@ -48,7 +48,7 @@ Model CNN berhasil dilatih untuk melakukan klasifikasi gambar alat tulis. Hasil 
 - Confusion Matrix
 
 ## Video Demo
-🔗 **Link Video Demo:**  
+**Link Video Demo:**  
 https://youtu.be/TcMpwyo6k3w
 
 ## Cara Menjalankan Program
