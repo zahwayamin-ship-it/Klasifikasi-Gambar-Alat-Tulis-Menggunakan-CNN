@@ -33,15 +33,15 @@ Tahapan yang dilakukan dalam proyek ini meliputi:
 
 ## Struktur Repository
 
-```text
+
 └── README.md
 ├── Zahwa_Alya_245060307111028_Coding_CNN.ipynb
 ├── Zahwa_Alya_Yamin_245060307111028_Laporan.pdf
 ├── Hasil Evaluasi Klasifikasi Alat Tulis.pdf
 ├── Gambar Grafik Hasil.pdf
 ├── PPT Klasifikasi Gambar Alat Tulis CNN.pdf
-├── Dataset Gambar Alat Tulis/
-├── Link Video Penjelasan
+├── Link Dataset
+├── Link Video Demo
 
 ```
 
